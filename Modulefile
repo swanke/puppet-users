@@ -1,0 +1,7 @@
+name    'swanke-users'
+version '0.0.5'
+source 'https://github.com/swanke/puppet-users.git'
+author 'Siegfried Wanke'
+license 'Apache License, Version 2.0'
+summary 'This module manage Linux user'
+description 'This module create and delete Linux users'
