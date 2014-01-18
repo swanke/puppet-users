@@ -38,14 +38,7 @@ node default {
 ```
 ##Reference
 
-###Classes
-
-####Public classes
-* `users::manage`: Create user and group.
-* `users::user`: Create user.
-* `users::group`: Create group.
-* `users::home`: Create home directory.
-* `users::ssh`: Create .ssh directory and add ssh public key.
+###Defines
 
 ###Parameters
 
